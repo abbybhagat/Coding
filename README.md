@@ -1,3 +1,3 @@
 # Coding
 
-print("hello this is my first program")
+You've come to the readme section!
